@@ -1,5 +1,5 @@
 # COMP30022 IT Project
-COMP30022 IT Project, University of Melbourne Handbook Page (Due to copy right act, code repository have to be kept private)
+COMP30022 IT Project, University of Melbourne Handbook Page (Due to copy right act, code repository have to be kept private) 
 
 **Link to product page:** https://it-project-fa8f3.web.app/
 
